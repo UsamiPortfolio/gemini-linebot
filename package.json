@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "LINE BOT with Gemini API integration",
   "main": "index.js",
-  "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js"
-  },
+"scripts": {
+  "start": "node index.js",
+  "dev": "nodemon index.js"
+},
   "dependencies": {
     "@line/bot-sdk": "^8.0.0",
     "@google/generative-ai": "^0.2.0",
